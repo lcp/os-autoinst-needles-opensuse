@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "mokmanager",
+    "ENV-UEFI-1",
+    "ENV-FLAVOR-DVD"
+  ],
+  "area": [
+    {
+      "xpos": 79,
+      "ypos": 65,
+      "width": 645,
+      "height": 293,
+      "type": "match"
+    }
+  ]
+}

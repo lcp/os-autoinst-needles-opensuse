@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ovmf-enroll-sig"
+  ],
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 20,
+      "width": 375,
+      "height": 113,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

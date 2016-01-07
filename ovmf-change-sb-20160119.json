@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 20,
+      "width": 407,
+      "height": 234,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ovmf-change-sb"
+  ],
+  "properties": []
+}

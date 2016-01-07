@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 109,
+      "type": "match",
+      "ypos": 129,
+      "width": 386,
+      "xpos": 2
+    }
+  ],
+  "tags": [
+    "ovmf-menu"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 209,
+      "ypos": 7,
+      "width": 214,
+      "height": 172,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ovmf-customized-sb"
+  ]
+}

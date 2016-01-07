@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 154,
+      "width": 116,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ovmf-choose-shim-key"
+  ]
+}

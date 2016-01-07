@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 227,
+      "width": 217,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ovmf-commit-sig"
+  ],
+  "properties": []
+}

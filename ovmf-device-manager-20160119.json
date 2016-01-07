@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 3,
+      "width": 360,
+      "height": 91,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ovmf-device-manager"
+  ],
+  "properties": []
+}

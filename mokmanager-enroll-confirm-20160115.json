@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "mokmanager-enroll-confirm"
+  ],
+  "area": [
+    {
+      "xpos": 322,
+      "ypos": 77,
+      "width": 157,
+      "height": 250,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 18,
+      "width": 354,
+      "height": 101,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ovmf-db-enroll"
+  ]
+}
